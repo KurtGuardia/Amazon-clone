@@ -16,6 +16,9 @@ const reducer = (state, action) => {
         basket: [...state.basket, action.item],
       };
 
+      case "REMOVE_FROM_BASKET":
+          
+
     default:
       return state;
   }
