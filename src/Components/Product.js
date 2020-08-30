@@ -18,8 +18,6 @@ function Product({ id, title, image, price, rating }) {
       },
     });
   };
-  
-  console.log("this is the basket =>", basket);
 
   return (
     <div className="product">
