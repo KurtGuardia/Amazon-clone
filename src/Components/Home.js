@@ -1,6 +1,7 @@
 import React from "react";
 import "../Css/Home.css";
 import Product from "./Product";
+import Copyright from './Copyright';
 
 function Home() {
   return (
@@ -64,6 +65,8 @@ function Home() {
           />
         </div>
       </div>
+
+      <Copyright />
     </div>
   );
 }

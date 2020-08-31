@@ -1,0 +1,23 @@
+.copyright {
+  display: flex;
+  flex-direction: column;
+  width: 90vw;
+  background-color: rgb(245, 245, 245);
+  padding: 2rem;
+  text-align: justify;
+}
+
+.copyright > span {
+  align-self: flex-start;
+}
+
+.copyright p > a,
+span > a,
+strong > a {
+  text-decoration: none;
+}
+
+.phi {
+  color: #eea916;
+  font-weight: bold;
+}
