@@ -2,7 +2,7 @@
   height: 60px;
   display: flex;
   align-items: center;
-  background-color: #131921;
+  background-color: #0b1420;
   position: sticky;
   top: 0;
   z-index: 100;
@@ -35,18 +35,18 @@
   background-color: #cd9042;
 }
 
-.header__optionLineOne{
-    font-size: 10px;
+.header__optionLineOne {
+  font-size: 10px;
 }
 
-.headerLineTwo{
-    font-size: 13px;
-    font-weight: 800;
+.headerLineTwo {
+  font-size: 13px;
+  font-weight: 800;
 }
 
-.header__nav{
-    display: flex;
-    justify-content: space-evenly;
+.header__nav {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 .header__option {
@@ -57,13 +57,13 @@
   margin-right: 10px;
 }
 
-.header__optionBasket{
-    display: flex;
-    align-items: center;
-    color: white;
+.header__optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
 }
 
-.header__basketCount{
-    margin-left: 10px;
-    margin-right: 10px;
+.header__basketCount {
+  margin-left: 10px;
+  margin-right: 10px;
 }

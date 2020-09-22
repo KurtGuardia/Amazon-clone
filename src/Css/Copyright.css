@@ -6,6 +6,7 @@
   background-color: rgb(245, 245, 245);
   padding: 2rem;
   text-align: justify;
+  line-height: 25px;
 }
 
 .copyright > span {
@@ -21,4 +22,8 @@ strong > a {
 .phi {
   color: #eea916;
   font-weight: bold;
+}
+
+.copyright p ul li {
+  padding: 5px 0;
 }
